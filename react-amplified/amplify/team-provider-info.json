@@ -10,6 +10,17 @@
       "StackName": "amplify-newtest2-dev-223000",
       "StackId": "arn:aws:cloudformation:eu-west-2:802417493432:stack/amplify-newtest2-dev-223000/48eccfa0-23a4-11eb-a600-0a321082c1e4",
       "AmplifyAppId": "dewjiuvz50wbl"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dewjiuvz50wbl",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "newtest24e19bcef": {}
+      }
     }
   }
 }
